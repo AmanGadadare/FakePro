@@ -3,7 +3,9 @@
   
   Solution:-   1.system provides reliable and secure product transaction history using blockchain.
  POMS in SCM using consensus algorithm.
+ 
  2.In proposed system the manufacturer will enroll him with valid information on the blockchain with company name and other details and assigns a unique ID to each product with QR code. 
+ 
 3.The manufacturer ships products to the Distributor where a distributor can check the manufacturer details and ownership of the products, etc. Distributor verifies the genuineness of the EPC using assigned QR code and issues a transaction. 
 
 ## Demo:-
@@ -12,6 +14,8 @@ https://drive.google.com/file/d/1L8JYyjkbwQ-cuTyYqUlboZmG_dpZ99ny/view
 
 
 ## Tech Stack /Tools:-
+
+
 1.Remix IDE -
 Remix IDE is an open-source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. The remix is used for the entire journey of contract development as well as being a playground for learning and teaching Ethereum.
 
