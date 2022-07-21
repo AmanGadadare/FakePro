@@ -11,20 +11,30 @@ Click on the link to view the deom of Project
 https://drive.google.com/file/d/1L8JYyjkbwQ-cuTyYqUlboZmG_dpZ99ny/view
 
 
-## Tech Stack :-
-Remix IDE -
+## Tech Stack /Tools:-
+1.Remix IDE -
 Remix IDE is an open-source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. The remix is used for the entire journey of contract development as well as being a playground for learning and teaching Ethereum.
+
 2. Ethereum node:
 Ethereum is a distributed network of computers running software (known as nodes) that can verify blocks and transaction data. 
+
+
 3. Meta mask:
 Meta Mask allows users to sign smart contracts and interface with Ethereum dApps (distributed Ethereum-based applications) without running a full Ethereum node
+
+
 4. PHP :
 For Developing the backedn we have use the PHP
-5. MySQL:
-For storing the meta details about the products, we can use the SQL database.
-6. Ganache:
-Ganache is a personal blockchain for rapid Ethereum and Corda distributed application development. You can use Ganache across the entire development cycle; enabling you to develop, deploy, and test your dApps in a safe and deterministic environment. Ganache comes in two flavors: a UI and CLI.Ganache is used for setting up a personal Ethereum Blockchain for testing your Solidity contracts. It provides more features when compared to Remix.
 
+
+5. MySQL:
+For Storing the user username and password info used MySQL with Wamp Server .Password will stored in encrypted format.
+
+6. Ganache:
+Ganache is a personal blockchain for rapid Ethereum and Corda distributed application development. Ganache is used for setting up a personal Ethereum Blockchain for testing your Solidity contracts. It provides more features when compared to Remix. 
+
+6.Solidity :
+For Smart Contract Development.
 
 
 ## Design:-
